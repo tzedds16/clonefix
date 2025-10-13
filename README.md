@@ -1,35 +1,13 @@
-##👤 Introduccion
+# 👤 Introduccion
 
 Introduccion al proyecto
-
-## 🙈 Va un subtitulo
-
-Texto del subtitulo
--Aqui va un punto
--Aqui va otro punto
-
-```CSS
-body {
-    background: #000000;
-}
-```
-
 ---
-Separacion
 
-```plaintext
-proyecto/
-|- src/
-| |-- index.js
-```
+## 🙈 Descripcion
 
 ---
 
-Tablas
-```plaintext
-| Columna 1 | Columna 2 | Columna 3 |
-| --------- | --------- | --------- |
-| Datos.    | Datos.    | Datos     |
-```
+## 👮 Version del Sistema
 
--✔️ [Instalacion](Instalacion.md)
+
+-✔️ [Creacion del Proyecto, version 1](Version1.md)
