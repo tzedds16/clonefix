@@ -14,9 +14,9 @@ Este proyecto busca dar informacion de programas de television usando la API de 
 ---
 
 ## Caracteristicas Actuales
--Visualizacionde tendencias
--Interfaz del Usuario
--Modal de Detalles
+- Visualizacionde tendencias
+- Interfaz del Usuario
+- Modal de Detalles
 
 ---
 

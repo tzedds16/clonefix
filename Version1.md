@@ -174,4 +174,4 @@ init()
 ## Navegacion
 
 - ✔️ [Home](README.md)
-- ❌ [Version2](archivo/version2)
+- ✔️ [Version2](Version2.md)
